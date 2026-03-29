@@ -9,4 +9,4 @@ VALUES
 ("Spider-Man No Way Home", "Multiverse chaos", "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg", 8.3, 160),
 ("Joker", "Origin story of Joker", "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg", 8.5, 140),
 ("Frozen", "Disney animation", "https://image.tmdb.org/t/p/w500/4Mmd1Hc7gq0i2bR6F9c4cF8xZ4f.jpg", 7.5, 90),
-("Titanic", "Romantic tragedy", "hhttps://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg", 7.9, 110);
+("Titanic", "Romantic tragedy", "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg", 7.9, 110);
